@@ -59,12 +59,10 @@ Description of HTTP Status Code
 |402| Found |
 |403| Payment Required |
 |404| Not Found|
-|404| Method Not Allowed |
+|405| Method Not Allowed |
 |406| Not Acceptable |
-|405| Proxy Authentication Required |
-|405| Proxy Authentication Required |
-|405| Proxy Authentication Required |
-|405| Proxy Authentication Required |
+|407| Proxy Authentication Required |
+|408| Request Timeout |
 |409| Conflict |
 |410| Gone |
 |411| Length Required|
