@@ -1,5 +1,5 @@
-# HttpStatusCode
-Description of HTTP Status Code
+# Http Status Code
+Details about HTTP Status Code
 
 ### The Top 10 used HttpStatus Code in RestFull Services:
 | Status Code | Description |
